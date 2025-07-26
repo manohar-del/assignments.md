@@ -24,7 +24,7 @@ A command-line based Python application that simulates a mini banking system for
 ## 📷 Screenshots
 
 ### 🎯 Lend Money
-![Lend Loan Screenshot](<img width="538" height="565" alt="Lend" src="https://github.com/user-attachments/assets/bfd45bcb-762d-4860-8536-d405433cf972" />)
+![Lend Loan Screenshot](screenshots/lend.png)
 
 ### 💵 Make a Payment
 ![Payment Screenshot](screenshots/payment.png)
