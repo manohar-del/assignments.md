@@ -24,7 +24,7 @@ A command-line based Python application that simulates a mini banking system for
 ## 📷 Screenshots
 
 ### 🎯 Lend Money
-![Lend Loan Screenshot](screenshots/lend.png)
+![Lend Loan Screenshot]([Uploading Lend.png…])
 
 ### 💵 Make a Payment
 ![Payment Screenshot](screenshots/payment.png)
@@ -34,14 +34,3 @@ A command-line based Python application that simulates a mini banking system for
 
 ### 📊 Account Overview
 ![Account Overview Screenshot](screenshots/overview.png)
-
-> Place your screenshots in a folder named `screenshots/` inside the repo.
-
----
-
-## 📋 How to Run
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/bank-loan-system.git
-   cd bank-loan-system
